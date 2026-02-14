@@ -6,7 +6,7 @@
   <?php wp_head(); ?>
 </head>
 
-<body <?php body_class('font-body text-neutral-900 bg-white'); ?>>
+<body <?php body_class('font-body text-neutral-900 bg-white m-0 text-xs'); ?>>
 <?php wp_body_open(); ?>
 
 <!-- Header -->
