@@ -10,4 +10,4 @@
 <?php wp_body_open(); ?>
 
 <!-- Header -->
-<?php get_template_part('template-parts/sections/header'); ?>
+<?php get_template_part('template-parts/sections/header/header'); ?>

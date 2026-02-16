@@ -1,7 +1,8 @@
-<footer class="bg-neutral-950 text-neutral-200">
-  <!-- paste your Tailwind footer markup here -->
-</footer>
+  <!-- Footer -->
+  <?php get_template_part('template-parts/sections/footer/footer'); ?>
 
-<?php wp_footer(); ?>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>

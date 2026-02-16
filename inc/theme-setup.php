@@ -9,6 +9,8 @@ add_action('after_setup_theme', function () {
 
   register_nav_menus([
     'primary' => 'Primary Menu',
+    'quick-links' => 'Footer Quick Links',
+    'legal' => 'Footer Legal Links',
   ]);
 
 });

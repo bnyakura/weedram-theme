@@ -17,7 +17,7 @@
             class="w-full rounded-full border border-neutral-200 bg-neutral-50 px-4 py-2 pr-12 text-sm focus:outline-none focus:ring-2 focus:ring-[color:var(--brand)]/30"
             placeholder="Search"
             />
-          <button class="absolute right-2 top-1/2 -translate-y-1/2 h-8 w-8 rounded-full bg-[color:var(--brand)] text-white grid place-items-center">
+          <button class="absolute right-[3px] top-1/2 -translate-y-1/2 h-8 w-8 rounded-full bg-[color:var(--brand)] text-white grid place-items-center">
               <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search-icon lucide-search"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg>
           </button>
         </div>
@@ -57,7 +57,7 @@
           class="w-full rounded-full border border-neutral-200 bg-neutral-50 px-4 py-2 pr-12 text-sm focus:outline-none focus:ring-2 focus:ring-[color:var(--brand)]/30"
           placeholder="Search"
         />
-        <button class="absolute right-2 top-1/2 -translate-y-1/2 h-8 w-8 rounded-full bg-[color:var(--brand)] text-white grid place-items-center">
+        <button class="absolute right-[3px] top-1/2 -translate-y-1/2 h-8 w-8 rounded-full bg-[color:var(--brand)] text-white grid place-items-center">
           <svg class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
             <path fill-rule="evenodd" d="M8.5 3.5a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm-6 5a6 6 0 1 0 10.52 3.72l3.13 3.13a.75.75 0 1 0 1.06-1.06l-3.13-3.13A6 6 0 0 0 2.5 8.5Z" clip-rule="evenodd"/>
           </svg>
