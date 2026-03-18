@@ -1,0 +1,16 @@
+{
+  "name": "wdc/banner",
+  "title": "Banner",
+  "description": "Banner section block",
+  "category": "wdc-blocks",
+  "icon": "cover-image",
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "banner.php"
+  },
+  "supports": {
+    "align": false,
+    "jsx": true
+  },
+  "style": ["file:./banner.css"]
+}
